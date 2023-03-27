@@ -1,2 +1,0 @@
-# cordaria.app
-Teste Cordaria
